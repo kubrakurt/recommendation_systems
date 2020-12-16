@@ -1,3 +1,4 @@
+# [Medium](https://medium.com/kaveai/%C3%B6neri-sistemleri-recommendation-systems-9c4d981d1750)
 # *Öneri Sistemleri*
 ## 1. Basit Tavsiyeler
 ## 2. İçeriğe Dayalı Tavsiyeler
