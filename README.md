@@ -1,7 +1,11 @@
-<h1 align="center"> [Dataset | MovieLens 20M Dataset](https://www.kaggle.com/grouplens/movielens-20m-dataset#tag.csv) </h1>
+<h1 align="center"> Öneri Sistemleri </h1>
 
 * Basit Tavsiyeler
 * İçeriğe Dayalı Tavsiyeler
+
+## Medium
+
+* [Öneri Sistemleri](https://medium.com/kaveai/%C3%B6neri-sistemleri-recommendation-systems-9c4d981d1750)
 
 ## Kaynaklar:
 
