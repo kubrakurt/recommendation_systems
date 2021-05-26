@@ -1,5 +1,7 @@
 <h1 align="center"> Öneri Sistemleri </h1>
 
+<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C5112AQFMwvkvdxabgw/article-inline_image-shrink_1000_1488/0/1534342725321?e=1625097600&v=beta&t=sLdpsgXiuvl-zVmRA673wOD3faqdC9ZpuIfP_Fa8Jto" /> </p>
+
 * Basit Tavsiyeler
 * İçeriğe Dayalı Tavsiyeler
 
